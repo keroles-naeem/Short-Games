@@ -91,13 +91,9 @@ We welcome contributions to improve Short-Games! If you’d like to add features
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
-- **Your Name**: (mailto:Kerols_naeem@live.com)  
+- **Keroles Naeem**: (Kerols_naeem@live.com)  
 - **GitHub**: (https://github.com/keroles-naeem)
+- **Live** : (https://keroles-naeem.github.io/Short-Games/)
